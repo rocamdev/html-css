@@ -1,0 +1,25 @@
+p {
+  color: #222;
+  font-size: 16px;
+}
+div {
+  padding: 20px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 16px;
+  font-family: bamboo gothic;
+}
+h1 {
+  color: red;
+  font-size: 70 px;
+}
+body {
+  color: yellow;
+}
+div a {
+  color: aqua;
+}
+a {
+  color: black;
+}
