@@ -11,6 +11,5 @@
   margin: 0 auto;
   background: #aaa;
   padding: 20px;
-  border: 1px;
-  border-style: groove;
+  border: 5px solid #000;
 }
