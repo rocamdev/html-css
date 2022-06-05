@@ -11,3 +11,7 @@ body {
 a {
   color: black;
 }
+li {
+  display: inline;
+  margin: 10px;
+}

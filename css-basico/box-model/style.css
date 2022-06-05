@@ -24,6 +24,7 @@ footer {
 article {
   width: 580px;
   height: 300px;
+  padding: 0 auto;
   background: #222;
   float: left;
 }
